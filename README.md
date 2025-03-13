@@ -1,4 +1,4 @@
-# Fetal MRI Image Generation using WGAN-GP
+# Fetal MRI Image Generation using WGAN-GP 
 
 ## Overview
 This project implements a Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) to generate synthetic fetal MRI images. The model is trained on a dataset of fetal MRI scans and aims to produce high-quality synthetic images that resemble real medical scans. The implementation is done using PyTorch.
